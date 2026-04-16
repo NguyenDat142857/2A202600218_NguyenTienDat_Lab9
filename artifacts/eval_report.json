@@ -1,0 +1,23 @@
+{
+  "time": "2026-04-16T16:38:14.208523",
+  "day08": {
+    "avg_confidence": 0.6,
+    "avg_latency_ms": 200,
+    "note": "Dummy baseline (update from Day08)"
+  },
+  "day09": {
+    "total": 26,
+    "routing": {
+      "policy_tool_worker": 16,
+      "retrieval_worker": 10
+    },
+    "avg_confidence": 0.39,
+    "avg_latency_ms": 11990,
+    "mcp_usage_rate": "2/26"
+  },
+  "insight": [
+    "Multi-agent dễ debug hơn",
+    "Có routing rõ ràng",
+    "Extend được bằng MCP tools"
+  ]
+}
