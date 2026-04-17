@@ -191,9 +191,9 @@ Routing visibility giúp debug cực nhanh. Chỉ cần nhìn `route_reason` là
 | Thành viên      | Phần đã làm                            | Sprint   |
 | --------------- | -------------------------------------- | -------- |
 | Nguyễn Tiến Đạt | Supervisor + Graph                     | Sprint 1 |
-| Nguyễn Tiến Đạt | Workers (retrieval, policy, synthesis) | Sprint 2 |
-| Nguyễn Tiến Đạt | MCP Server                             | Sprint 3 |
-| Nguyễn Tiến Đạt | Trace & Evaluation                     | Sprint 4 |
+| Ngô Văn Long    | Workers (retrieval, policy, synthesis) | Sprint 2 |
+| Nguyễn Duy Hiếu | MCP Server                             | Sprint 3 |
+| Phạm Đan Kha | Trace & Evaluation                     | Sprint 4 |
 
 ---
 
